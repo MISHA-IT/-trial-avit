@@ -1,0 +1,49 @@
+h3 {
+    color: blue;
+}
+h1 {
+    color: rgb(255, 255, 255);
+}
+.r {
+ border: 3px;
+ border-color: rgb(59, 131, 255);
+}
+.bttn {
+    height: auto;
+    width: auto;
+    background-color: rgb(253, 0, 0);
+    color: rgb(255, 255, 255);
+    border-radius: 10px 10px 0px 0px;
+
+}
+.tovar {
+    box-shadow: 10px 10px 0px 0px rgb(112, 179, 246);
+    background-color: rgb(199, 199, 255);
+    height: 300px;
+    border-radius: 10px;
+    display: inline-block;
+vertical-align: top;
+width: calc(40% - 2rem);
+    
+}
+.hr {
+    border: 4px;
+    color:blue;
+}
+.text {
+    border-color: blue;
+    border: 20px;
+}
+.write {
+    background-color: rgb(255, 255, 255);
+}
+.btt {
+    background-color: darkgreen;
+    border-radius: 5px;
+    float: inline-end;
+    color:rgb(255, 255, 255);
+    font-size: 20px;
+}
+.a {
+    background-color: rgb(65, 128, 255);
+}
